@@ -1,0 +1,407 @@
+
+@media screen and (max-width: 400px) {
+    
+    /* ============ HEADER ========= */
+    .header_top{
+       display: none;
+    }
+
+    .menu_header{
+        width: 100%;
+        height: 86px;
+        background-color: #6600cc;
+    }
+
+    .logo{
+        width: 150px;
+        position: absolute;
+        top: 28px;
+        left: 7px;
+    }
+
+    /* ============ BANNER ========= */
+    .banner_top{
+       width: 100%;
+    }
+
+
+    /* ============ FAVORITOS ========= */
+
+    .favoritos{
+        position: relative;
+        margin-top: 40%;
+    }
+   
+    .mine_banner{
+        display:grid;
+        margin-top: 10%;
+        margin-left: 21%;    
+    }
+
+    .banner_dois{
+        padding-left: 0;
+    }
+
+    .banner_tres{
+        padding-left: 0;
+        margin-top: 4%;
+    }
+
+    .banner_quatro{
+        padding-left: 0;
+        margin-top: 4%;
+    }
+
+    .banner_dois{
+        padding-left: 0;
+        margin-top: 4%;
+    }
+
+    .produtos_favoritos {
+        font-size: 28px;
+        position: relative;
+        left: 0;
+        margin-left: 9%;    
+    }
+
+
+    .loja_danibella{
+        display: grid;
+        position: absolute;
+        margin-top: 30em;
+        height: 70%;
+        padding-top: 0;
+    }
+
+    .text_loja{
+        padding-top: 0;
+        width: 100%;
+        padding-left: 0;
+        display: grid;
+        text-align: center;
+    }
+
+    .tilte_loja{
+        font-size: 28px;
+    }
+
+    .descricao_loja{
+        margin-top: 4%;
+    }
+    .img_loja1{
+        width: 100%;
+        margin-top: 33em;
+        display: grid;
+        padding-left: 0;
+        right: 0;
+        text-align: center;
+    }
+
+    .img_loja2{
+        width: 100%;
+        display: grid;
+        padding-left: 0;
+        right: 0;
+        text-align: center;
+        margin-top: 43em;
+    }
+
+    .img1{
+        display: none;
+    }
+    .img2{
+        display: none;
+    }
+    .img3{
+        display: none;
+    }
+    .img4{
+        display: none;
+    }
+
+
+    .personalize_suas_roupas{
+        display: grid;
+        margin-top: 1%;
+    }
+
+    .texto_roupa{
+        width: 80%;
+    }
+
+    .title_roupa{
+        font-size: 24px;
+    }
+    .descricao_roupa{
+        font-size: 16px;
+    }
+    .img_marca1{
+        display: none;
+    }
+    .img_marca2{
+        display: none;
+    }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* ============ LOJA ========= */  
+
+
+    
+/* ============ CATALAGO ========= */
+
+    .catalago_digital{
+        display: none;
+    }
+
+
+    /* ============ RESTO SITE ========= */
+    .nova_colecao{
+        display: none;
+    }
+
+    
+    
+    .revender_danibella{
+        display: none;
+    }
+
+    .kit_experiencia{
+        display: none;
+    }
+
+    
+
+}
+
+
+@media screen and (max-width: 600px) {
+    
+    /* ============ HEADER ========= */
+    .header_top{
+       display: none;
+    }
+
+    .menu_header{
+        width: 100%;
+        height: 86px;
+        background-color: #6600cc;
+    }
+
+    .logo{
+        width: 150px;
+        position: absolute;
+        top: 28px;
+        left: 7px;
+    }
+
+    /* ============ BANNER ========= */
+    .banner_top{
+       width: 100%;
+    }
+
+
+    /* ============ FAVORITOS ========= */
+
+    .favoritos{
+        position: relative;
+        margin-top: 40%;
+        
+    }
+   
+    .mine_banner{
+        margin-top: 10%;
+        margin-left: 21%;    
+        display: grid;
+    }
+
+    .banner_dois{
+        padding-left: 0;
+        display:flex;
+    }
+
+    .banner_tres{
+        padding-left: 0;
+        margin-top: 4%;
+    }
+
+    .banner_quatro{
+        padding-left: 0;
+        margin-top: 4%;
+    }
+
+    .banner_dois{
+        padding-left: 0;
+        margin-top: 4%;
+    }
+
+    .produtos_favoritos {
+        font-size: 28px;
+        position: relative;
+        left: 0;
+        margin-left: 9%;    
+    }
+
+
+    .loja_danibella{
+        display: grid;
+        position: absolute;
+        margin-top: 40em;
+        height: 70%;
+        padding-top: 0;
+    }
+
+    .text_loja{
+        padding-top: 0;
+        width: 100%;
+        padding-left: 0;
+        display: grid;
+        text-align: center;
+    }
+
+    .tilte_loja{
+        font-size: 28px;
+    }
+
+    .descricao_loja{
+        margin-top: 4%;
+    }
+    .img_loja1{
+        width: 100%;
+        margin-top: 33em;
+        display: grid;
+        padding-left: 0;
+        right: 0;
+        text-align: center;
+    }
+
+    .img_loja2{
+        width: 100%;
+        display: grid;
+        padding-left: 0;
+        right: 0;
+        text-align: center;
+        margin-top: 43em;
+    }
+
+    .img1{
+        display: none;
+    }
+    .img2{
+        display: none;
+    }
+    .img3{
+        display: none;
+    }
+    .img4{
+        display: none;
+    }
+
+
+    .personalize_suas_roupas{
+        display: grid;
+        margin-top: 450px;
+    }
+
+    .texto_roupa{
+        width: 80%;
+    }
+
+    .title_roupa{
+        font-size: 24px;
+    }
+    .descricao_roupa{
+        font-size: 16px;
+    }
+    .img_marca1{
+        display: none;
+    }
+    .img_marca2{
+        display: none;
+    }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* ============ LOJA ========= */  
+
+
+    
+/* ============ CATALAGO ========= */
+
+    .catalago_digital{
+        display: none;
+    }
+
+
+    /* ============ RESTO SITE ========= */
+    .nova_colecao{
+        display: none;
+    }
+
+    
+    
+    .revender_danibella{
+        display: none;
+    }
+
+    .kit_experiencia{
+        display: none;
+    }
+
+    
+
+}
